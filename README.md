@@ -1,2 +1,2 @@
 # cursocalcularandroid
-app android kotlin
+android studio
